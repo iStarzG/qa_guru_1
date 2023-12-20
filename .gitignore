@@ -1,0 +1,12 @@
+/.gradle
+/.idea
+.allure
+*.iws
+*.iml
+*.ipr
+build/
+!**/src/main/**
+!**/src/test/**
+!**/src/err.log/
+!gradlew.bat
+
